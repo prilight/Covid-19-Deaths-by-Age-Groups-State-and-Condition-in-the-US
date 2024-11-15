@@ -1,0 +1,2 @@
+# Covid-19-Deaths-by-Age-Groups-State-and-Condition-in-the-US
+The reason for this project is to understand factors contributing to COVID-19 deaths and provide actionable insights for healthcare planning and intervention strategies.  COVID-19 deaths were analyzed and predicted using a dataset with information on conditions, states, age groups, and mentions of Covid-19 in The United States of America.
