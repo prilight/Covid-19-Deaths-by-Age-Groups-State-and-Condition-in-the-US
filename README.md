@@ -37,7 +37,7 @@ COVID-19 Deaths and Mentions in the United States by Age Group and Conditions: T
 -	Found a strong positive correlation between condition mentions and COVID-19 deaths.
 -	Built a Linear Regression Model with an R2 score on the test set, validated with a cross-validation achieving a mean R2 score of 0.900.
 -	Evaluated using MAE, MSE, and conducted analysis.
--	Build a Dashboard in Tableau to visualize and tell a story behind the COVID cases in the US.
+-	Build a Dashboard in Tableau to visualize and tell a story behind the COVID cases in the US. Check out my tableau dashboard to get a full picture of the story of the impact of covid-19 in the United States. Link to tableau dashboard: [Covid-19 Deaths and Mentions in the United States](https://public.tableau.com/app/profile/precious.gift.joshua/viz/NewCovidProject/Dashboard1)
         
       
   ### Key Insights:
